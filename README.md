@@ -15,94 +15,51 @@
 
 # Conversor de Moneda - Alura Latam
 
-_Acá va un párrafo que describa lo que es el proyecto_
+_Conversor de monedas: En esta primera clase de la "Inmersión Dev con Javascript", creamos un conversor de monedas, donde podrás transformar en pesos un producto que tenga el precio en dólares. En este programa, nos enfocamos en las principales herramientas de cualquier lenguaje de programación: variables, operadores, redondeo y consola._
 
 ## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
-
-Mira **Deployment** para conocer como desplegar el proyecto.
-
-
-### Pre-requisitos 📋
-
-_Que cosas necesitas para instalar el software y como instalarlas_
+_Al ingresar al sitio, una ventana emergente le solicita al usuario que ingrese su nombre. Luego, otra ventana emergente solicita al usuario que ingrese el valor en Dolares americanos que desee convertir a Pesos Argentinos. Y finalmente, el sistema le entrega el resultado deseado, haciendo la conversion de la moneda al valor actual_
 
 ```
-Da un ejemplo
+ Sistema de conversion de moneda facil e intuitivo
 ```
 
 ### Instalación 🔧
 
-_Una serie de ejemplos paso a paso que te dice lo que debes ejecutar para tener un entorno de desarrollo ejecutandose_
-
-_Dí cómo será ese paso_
+_Para utilizar el conversor, no se necesita ninguna instalacion previa. Basta con abrir el navegador y seguir con las instrucciones de las ventanas emergentes_
 
 ```
-Da un ejemplo
+No se necesita instalacion alguna.
 ```
 
-_Y repite_
+
+### Analisis de las pruebas end-to-end 🔩
+
+_Antes de subirse al servidor, todas las pruebas de correcto funcionamiento fueron ejecutadas_
 
 ```
-hasta finalizar
+Testing QA Manual
 ```
-
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
-
-## Ejecutando las pruebas ⚙️
-
-_Explica como ejecutar las pruebas automatizadas para este sistema_
-
-### Analice las pruebas end-to-end 🔩
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-### Y las pruebas de estilo de codificación ⌨️
-
-_Explica que verifican estas pruebas y por qué_
-
-```
-Da un ejemplo
-```
-
-## Despliegue 📦
-
-_Agrega notas adicionales sobre como hacer deploy_
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+_Las herramientas que fueron utilizadas para realizar el proyecto, fueron las siguientes_
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
-
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
-## Wiki 📖
-
-Puedes encontrar mucho más de cómo utilizar este proyecto en nuestra [Wiki](https://github.com/tu/proyecto/wiki)
-
-## Versionado 📌
-
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
+* HTML
+* CSS
+* JavaScript
 
 ## Autores ✒️
 
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
+_El equipo de Alura Latam como proyecto y Juan Rodriguez_
 
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
+* **Alura Latam** - *Trabajo Inicial*
+* **Christian Velasco** - *Trabajo Inicial*
+* **Barbara dos Santos** - *Trabajo Inicial*
+* **Jeanmarie Quijada** - *Trabajo Inicial*
+* **Juan Rodriguez** - *Desarrollo JavaScript*
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia de Juan Rodriguez - Kiamond Design 
