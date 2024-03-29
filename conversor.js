@@ -6,7 +6,7 @@
 //valorEnPesos = valorEnPesos.toFixed(2);
 //alert("$. " + valorEnPesos);
 
-//? Codigo de la clase de ALURA mejorado:
+//? Codigo de la clase de ALURA mejorado por mi:
 
 function validarNombre(nombre) {
     var regex = /^[a-zA-Z]+$/;
