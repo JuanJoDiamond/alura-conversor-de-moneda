@@ -1,10 +1,10 @@
 <div align="center">
   <h1 align="center">
-    Conversor de Moneda - Alura Latam
+    CLASE 01 - INVERSION DEV - Alura Latam
     <br />
     <br />
     <a href="#">
-      <img src="https://assets.playgroundai.com/0e4219b5-cb1f-4e41-ba79-cb351e549ae0.jpg" alt="Proyecto">
+      <img src="https://grupoalura.notion.site/image/https%3A%2F%2Fprod-files-secure.s3.us-west-2.amazonaws.com%2F501588a2-50a4-4bb5-b6d6-639d6088ac31%2F6d405fc4-60bc-420b-8352-693197a038aa%2Fcapa-notion.png?table=block&id=a9f43b07-c60d-4c67-b75f-434d28def385&spaceId=501588a2-50a4-4bb5-b6d6-639d6088ac31&width=2000&userId=&cache=v2" alt="Proyecto">
     </a>
   </h1>
 </div>
