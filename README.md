@@ -60,6 +60,6 @@ _El equipo de Alura Latam como proyecto y Juan Rodriguez_
 * **Jeanmarie Quijada** - *Trabajo Inicial*
 * **Juan Rodriguez** - *Desarrollo JavaScript*
 
-## Licencia 📄
+## Link Pagina Web 📄
 
-Este proyecto está bajo la Licencia de Juan Rodriguez - Kiamond Design 
+https://juanjodiamond.github.io/alura-conversor-de-moneda/
